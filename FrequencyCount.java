@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class CountOccurance {
+class CountOccurance {
 
 	public static void main(String[] args) {
 
